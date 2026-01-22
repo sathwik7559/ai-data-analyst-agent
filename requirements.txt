@@ -1,0 +1,1 @@
+streamlitpandasnumpysqlalchemysentence-transformersfaiss-cputorchtransformersmatplotlib
